@@ -1,0 +1,11 @@
+public class Study
+{
+public sttaic void main (String args[])
+{
+System.out.println("am doing java");
+}
+
+
+
+
+}
